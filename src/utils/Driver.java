@@ -9,7 +9,7 @@ public class Driver {
         if(driver == null) {
             driver = new ChromeDriver();
             driver.manage().window().maximize();
-            driver.get("https://www.alarm.com");
+            driver.get("https://www.alarm.com/login.aspx");
         }
     }
 
