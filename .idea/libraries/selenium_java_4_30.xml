@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="selenium-java-4.30">
+    <CLASSES>
+      <root url="file://D:/Automation/selenium-java-4.30.0" />
+      <root url="file://$MAVEN_REPOSITORY$/org/testng/testng-remote/testng-remote/1.7.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/Automation/selenium-java-4.30.0" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/testng/testng-remote/testng-remote/1.7.0" recursive="false" />
+    <jarDirectory url="file://D:/Automation/selenium-java-4.30.0" recursive="false" />
+    <jarDirectory url="file://D:/Automation/selenium-java-4.30.0" recursive="false" type="SOURCES" />
+  </library>
+</component>
