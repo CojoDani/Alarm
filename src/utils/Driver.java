@@ -13,9 +13,7 @@ public class Driver {
         }
     }
 
-    public static void closeThePage(){
-        driver.quit();
-    }
+
 
 
 }
